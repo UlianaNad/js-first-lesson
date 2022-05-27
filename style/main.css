@@ -1,0 +1,16 @@
+.conteiner {
+  width: 400px;
+  height: 50px;
+  background-color: aquamarine;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin-left: 530px;
+  margin-top: 10px;
+}/*# sourceMappingURL=main.css.map */
